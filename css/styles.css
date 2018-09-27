@@ -1,0 +1,80 @@
+body{
+  background: rgb(236, 236, 236) !important;
+}
+.navbar{
+  font-family: 'Nunito', sans-serif;
+  width: 100%;
+  font-size: 20px;
+  position: fixed;
+  z-index: 1;
+  height: 55px;
+  margin-top: 0;
+  font-family: 'Nunito', sans-serif;
+}
+.image-container img {
+  margin: 0;
+  border-radius: 50%;
+}
+.well{
+  background: rgb(231, 230, 230) !important;
+}
+.row{
+  margin-top: 0%;
+}
+#title{
+  font-size: 30px;
+}
+.about{
+  background: url(../images/p.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+  opacity: 1.0;
+  font-family: 'Nunito', sans-serif;
+}
+.name{
+  color: whitesmoke !important;
+  padding-top: 300px;
+  font-size: 50px;
+  font-family: 'Nunito', sans-serif;
+
+}
+.dev{
+  color: whitesmoke;
+  font-size: 40px;
+}
+.aboutt{
+  font-family: 'Nunito', sans-serif;
+  font-size: 22px;
+}
+#js{
+  font-size: 140px;
+}
+.flask{
+  background: url(../images/flask.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 220px;
+  opacity: 1.0;
+  font-size: 10px;
+}
+.skills{
+  font-family: 'Nunito', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+.languages{
+  font-family: 'Nunito', sans-serif;
+  font-size: 21px;
+  color: black;
+  text-align: center;
+}
+.html{
+  border-radius: 20px !important;
+  width: 200px;
+}
+.thumbnail{
+  background: rgb(238, 236, 236) !important;
+}
