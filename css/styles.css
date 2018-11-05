@@ -210,13 +210,14 @@ hr.style1{
 /* footer */
 center{
   color:#c2baaa;
-  font-family: 'Lora', serif;
+  font-family: 'Zilla Slab', serif !important;
   padding-top: 100px !important;
   padding-bottom: 50px;
 }
 .footer{
   background: rgb(61, 61, 61);
-  height: 100% !important;
+  height: 68% !important;
+  width: 100% !important;
 }
 center i{
   color:#ece3d1;
