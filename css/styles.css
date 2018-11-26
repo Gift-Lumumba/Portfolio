@@ -13,7 +13,6 @@ hr.style1{
 
 .image-container img {
   margin: 0;
-  border-radius: 50%;
 }
 .well{
   background: rgb(231, 230, 230) !important;
@@ -141,9 +140,6 @@ hr.style1{
 }
 .thumbnail{
   background: rgb(238, 236, 236) !important;
-}
-#projects{
-  
 }
 .img-container {
   overflow: hidden;
