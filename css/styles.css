@@ -51,13 +51,7 @@ hr.style1{
 #description {
   color: rgb(253, 180, 45);
   font-weight: bolder;
-  font-size: 30px !important;
-}
-.landing h2 {
-  line-height: 120px;
-  font-size: 2em;
-  text-transform: uppercase;
-  font-weight: bold;
+  font-size: 25px !important;
 }
 .landing h2 {
   margin-bottom: 2%;
